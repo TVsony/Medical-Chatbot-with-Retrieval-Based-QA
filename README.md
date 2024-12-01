@@ -56,7 +56,8 @@ python app.py
 
 ## Project Structure 
 
-![alt text](image.png)
+<img width="368" alt="image" src="https://github.com/user-attachments/assets/4e8da7a3-9834-4c61-899b-736463639283">
+
 
 ### How It Works
 Embedding: The medical documents are embedded using Hugging Face pre-trained embeddings and stored in a Pinecone vector index.
